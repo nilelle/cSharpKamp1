@@ -11,6 +11,11 @@ namespace cKamp1
         public void Ekle(Kurs kurs)
         {
             Console.WriteLine(kurs.kursAdi+" "+"Sepete Eklendi");
+
+
+
+
+
         }
     }
 }
